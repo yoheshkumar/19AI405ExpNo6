@@ -1,7 +1,7 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 
-### DEVELOPED BY : NAVIN KUMAR J
-### REG NO : 212222240071
+### DEVELOPED BY : YOHESH KUMAR R.M
+### REG NO : 212222240118
 
 ## Aim :
 
